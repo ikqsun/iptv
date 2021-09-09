@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1,5 HD
+http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
+
+#EXTINF:-1,NBT HD
+https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
+
+#EXTINF:-1,TPBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1,ALTV4 HD
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1,ERROR-TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+
+#EXTINF:-1,TNN16
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1,JKN18
+https://freelive.inwstream.com:1936/freelive-edge/newstv/playlist.m3u8
+
+#EXTINF:-1,NATION
+https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
+
+#EXTINF:-1,WORKPOINT
+https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+
+#EXTINF:-1,TRUE4U
+https://tnnthailand-msqo7x.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1,GMM25
+https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
+
+#EXTINF:-1,CH8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1,MONO29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1988399235.m3u8
+
+#EXTINF:-1,MCOT HD
+https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
+
+#EXTINF:-1,ONE31 HD
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+
+#EXTINF:-1,THAIRATH HD
+https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
+
+#EXTINF:-1,3 HD
+https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+
+#EXTINF:-1,AMARINT HD
+https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
+
+#EXTINF:-1,7 HD
+https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+
+#EXTINF:-1,PPTV HD
+https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+
+#EXTINF:-1,Voice TV V2H9
+https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/chunklist_w1877077711.m3u8
+
+#EXTINF:-1,TOPNEWS
+https://live.topnews.co.th/hls/topnews.m3u8
