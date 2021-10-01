@@ -1,225 +1,473 @@
-#EXTM3U URL 
+#EXTM3U
 #EXTINF:-1,5 HD
 https://freelive2.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
-
 #EXTINF:-1,NBT HD
-https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
-
+https://freelive2.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
 #EXTINF:-1,TPBS HD
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8 
 #EXTINF:-1,ALTV4 HD
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
+#EXTINF:-1,Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1,FWTOON
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,Boomerang USA
+http://stream.tvtap.live:8081/live/us-boomerang.stream/chunks.m3u8
+#EXTINF:-1,Nick USA
+http://stream.tvtap.live:8081/live/us-nick.stream/chunks.m3u8
+#EXTINF:-1,Disney USA
+http://stream.tvtap.live:8081/live/us-disney.stream/chunks.m3u8
 #EXTINF:-1,TPTV
 http://live.parliament.go.th/livestream/tvparliament/playlist.m3u8
-
+#EXTINF:-1,Love Nature
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Sumrujlok
+http://203.159.95.172:8081/live/explore/playlist.m3u8
+#EXTINF:-1,National Geographic USA
+http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8
+#EXTINF:-1,National Geo Wild USA
+http://stream.tvtap.live:8081/live/us-natgeowild.stream/chunks.m3u8
+#EXTINF:-1,Animal Planet USA
+http://stream.tvtap.live:8081/live/us-animal.stream/playlist.m3u8
 #EXTINF:-1,TNN16
 https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
-
+#EXTINF:-1,INWILD
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1,JKN18
-https://freelive.inwstream.com:1936/freelive-edge/newstv/playlist.m3u8
-
-#EXTINF:-1,NATION
-https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
-
-#EXTINF:-1,WORKPOINT
-https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
-
-#EXTINF:-1,TRUE4U
-https://tnnthailand-msqo7x.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1,GMM25
-https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
-
-#EXTINF:-1,CH8
-https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
-
-#EXTINF:-1,MONO29
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1988399235.m3u8
-
-#EXTINF:-1,MCOT HD
-https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
-
-#EXTINF:-1,ONE31 HD
-https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
-
-#EXTINF:-1,THAIRATH HD
-https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
-
-#EXTINF:-1,3 HD
-https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
-
-#EXTINF:-1,AMARINT HD
-https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
-
-#EXTINF:-1,7 HD
-https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-
-#EXTINF:-1,PPTV HD
-https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
-
+https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8
+#EXTINF:-1,Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
 #EXTINF:-1,Voice TV V2H9
 https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/chunklist_w1877077711.m3u8
-
 #EXTINF:-1,TOPNEWS
-https://live.topnews.co.th/hls/topnews_a_480.m3u8
-
-#EXTINF:-1,วัวชน ถิ่นใต้
-https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
-
-#EXTINF:-1,TOONEE
-http://61.19.242.134/feed/202105171329/LC23/index.m3u8
-
-#EXTINF:-1,BOOMERANG TH
-http://61.19.242.134/feed/202105171329/chboomberang/index.m3u8
-
-#EXTINF:-1,BOOMERANG EN
-http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
-
-#EXTINF:-1,CARTOON CLUB
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-
-#EXTINF:-1,Animal Planet
-http://178.175.132.170:8888/02_AnimalPlanet/chunklist.m3u8
-
-#EXTINF:-1,H2
-http://178.175.132.170:8888/02_H2HD_720p/chunklist.m3u8
-
-#EXTINF:-1,History
-http://178.175.132.170:8888/02_HISTORYHD_720p/chunklist.m3u8
-
-#EXTINF:-1,National Geographic EN
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1,CNN
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,BBC
-http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
-
-#EXTINF:1,BBC world's News
-http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
-
-#EXTINF:1,ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1,Fox News
-https://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,NBC NEWS
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-
-#EXTINF:-1,CBS News
-https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1,Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-
-#EXTINF:-1,ANIMAX
-http://61.19.242.134/feed/202105171329/LC38/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,MIX TV
-https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8
-
-#EXTINF:-1,FWMOV
-https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
-
-#EXTINF:-1,FWSOV
-https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
-
-#EXTINF:-1,FWTOON
-https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
-
-#EXTINF:-1,Sun Movie
-http://61.19.242.134/feed/202105171329/LC1/index.m3u8
-
-#EXTINF:-1,Samurai
-http://61.19.242.134/feed/202105171329/LC2/index.m3u8
-
-#EXTINF:-1,Box Film
-http://61.19.242.134/feed/202105171329/LC52/index.m3u8
-
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1,NATION
+https://freelive2.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
+#EXTINF:-1,WORKPOINT
+https://freelive2.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+#EXTINF:-1,TRUE4U
+https://tnnthailand-msqo7x.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1,GMM25
+https://freelive2.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
+#EXTINF:-1,Mix Major
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w949285084.m3u8
+#EXTINF:-1,CH8
+https://freelive2.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
 #EXTINF:-1,M Channel
-http://61.19.242.134/feed/202105171329/chmchannel/index.m3u8
-
-#EXTINF:-1,ZEENUNG
-http://61.19.242.134/feed/202105171329/chzeenung/index.m3u8
-
+http://27.254.142.207:8080/live/web.m3u8
+#EXTINF:-1,MONO29
+https://freelive2.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+#EXTINF:-1,MCOT HD
+https://freelive2.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
+#EXTINF:-1,ONE31 HD
+https://freelive2.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+#EXTINF:-1,THAIRATH HD
+https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
+#EXTINF:-1,3 HD
+https://freelive2.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+#EXTINF:-1,AMARINT HD
+https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
+#EXTINF:-1,7 HD
+https://freelive2.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+#EXTINF:-1,PPTV HD
+https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1,Sangjun
+https://freelive2.inwstream.com:1936/freelive-edge/sangjun.stream/playlist.m3u8
+#EXTINF:-1,MIX TV
+https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/playlist.m3u8
+#EXTINF:-1,Thin Tai The Battle
+https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
+#EXTINF:-1,MVTV TVB Thai
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+#EXTINF:-1,MVTV SERIES
+https://edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/playlist.m3u8
+#EXTINF:-1,MVTV THAI ESAN TV
+https://edge6a.v2h-cdn.com/appt10/ThaEsan.stream_720p/playlist.m3u8
+#EXTINF:-1,MVTV Laos
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
+#EXTINF:-1,MVTV Myanmar
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+#EXTINF:-1,beIN Sports 1 TH
+https://smart-tv.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1,beIN Sports 2 TH
+https://smart-tv.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1,PREMIER HD1
+https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,PREMIER HD2
+https://smart-tv.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,PREMIER HD3
+https://smart-tv.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,PREMIER HD4
+https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,PREMIER HD5
+https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1,TRUE Sport HD
+https://smart-tv.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1,TRUE Sport HD 2
+https://smart-tv.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1,TRUE Sport HD 3
+https://smart-tv.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1,TRUE Sport HD 4
+https://smart-tv.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1,TRUE Sport 5
+https://smart-tv.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1,TRUE Sport 7
+https://smart-tv.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1,TRUE NBA TV
+https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1,TRUE Golf
+https://smart-tv.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1,TRUE Tennis HD
+https://smart-tv.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1,BT Sport HD
+https://smart-tv.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1,BT Sport HD 2
+https://smart-tv.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1,EUROSPORT1
+https://smart-tv.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1,EUROSPORT2
+https://smart-tv.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:-1,Tennis Channel Int
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1,One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8
+#EXTINF:-1,NBC Golf USA
+http://stream.tvtap.live:8081/live/golf.stream/chunks.m3u8
+#EXTINF:-1,CBSN USA
+http://stream.tvtap.live:8081/live/us-cbsn.stream/chunks.m3u8
+#EXTINF:-1,Fox Sports 1 USA
+http://stream.tvtap.live:8081/live/foxsports1.stream/chunks.m3u8
+#EXTINF:-1,ESPN USA
+http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
+#EXTINF:-1,NBA TV USA
+http://stream.tvtap.live:8081/live/nba.stream/chunks.m3u8
+#EXTINF:-1,WWE USA
+http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
+#EXTINF:-1,FOX Sports
+https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1,FOX Sports 2
+https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1,FOX Sports 3
+https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sports News Aus
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1,Sky Sport News IT
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://stream.tvtap.live:8081/live/de-skybundes1.stream/chunks.m3u8
+#EXTINF:-1,Espn VIVO
+http://rec2.distv.net/live/damaris/123456/144.m3u8
+#EXTINF:-1,beIN Sports EXTRA
+https://siloh.pluto.tv/lilo/production/bein/master.m3u8
+#EXTINF:-1,beIN Sports EXTRA ESP
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1,beIN Sports 1
+http://31.220.41.88:8081/live/bein1.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports 2
+http://31.220.41.88:8081/live/bein2.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports 3
+http://31.220.41.88:8081/live/bein3.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports 4
+http://31.220.41.88:8081/live/bein4.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports 5
+http://31.220.41.88:8081/live/bein5.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports 6
+http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports 7
+http://31.220.41.88:8081/live/bein7.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports 8
+http://31.220.41.88:8081/live/bein8.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports 9
+http://31.220.41.88:8081/live/bein9.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports 10
+http://31.220.41.88:8081/live/bein10.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports 11
+http://31.220.41.88:8081/live/bein11.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports 12
+http://31.220.41.88:8081/live/bein12.stream/chunks.m3u8
+#EXTINF:-1,Arena Sport 1
+http://31.220.41.88:8081/live/arena1.stream/chunks.m3u8
+#EXTINF:-1,Arena Sport 2
+http://31.220.41.88:8081/live/arena2.stream/chunks.m3u8
+#EXTINF:-1,Arena Sport 3
+http://31.220.41.88:8081/live/arena3.stream/chunks.m3u8
+#EXTINF:-1,Arena Sport 5
+http://stream.tvtap.live:8081/live/arena5.stream/chunks.m3u8
+#EXTINF:-1,Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1,Ziggo Select
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:-1,Sport TV 1
+https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 2
+https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 3
+https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 4
+https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 5
+https://smart-tv.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,K Sport 1
+http://93.157.62.180/KSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,K Sport 2
+http://93.157.62.180/KSport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,K Sport 3
+http://93.157.62.180/KSport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,FOX Thai
+https://smart-tv.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1,FOX Movies
+https://smart-tv.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+#EXTINF:-1,HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1,HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+#EXTINF:-1,HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1,Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+#EXTINF:-1,CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+#EXTINF:-1,NEW K-MOVIES
+https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,FWMOV
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,FWSOV
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,Channel8Thailand
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
+#EXTINF:-1,CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1,&FlixHD
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:-1,&PriveHD
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1,&Pictures
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
+#EXTINF:-1,Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1,Manoranjan movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1,24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1,IFC Films
+https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1,Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star World
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,My Movie English
+http://173.249.3.13:8080/mymovie-en/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-
-#EXTINF:-1,CTB
-http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u
-
-#EXTINF:-1,สำรวจโลก
-http://61.19.242.134/feed/202105171329/LC8/playlist.m3u8
-
-#EXTINF:-1,LOVENATURE ENG
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1,Xplore ENG
-https://xplore-plex.amagi.tv/playlist720-p.m3u8
-
-#EXTINF:-1,True PremierHD1
-http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1,True PremierHD2
-http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1,True PremierHD3
-http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1,True PremierHD 4
-http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1,True PremierHD 5
-http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8
-
-#EXTINF:-1,True sporthd1
-http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1,True sporthd2
-http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1,True sporthd3
-http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1,True sporthd4
-http://178.175.132.170:8888/02_2sporthd4_720p/chunklist.m3u8
-
-#EXTINF:-1,ERROR_FoxSport1
-http://178.175.132.170:8888/02_FoxSport_TH_720p/chunklist.m3u8
-
-#EXTINF:-1,FoxSport2
-http://178.175.132.170:8888/02_FoxSport2_TH_720p/chunklist.m3u8
-
-#EXTINF:-1,FoxSport3
-http://178.175.132.170:8888/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1,sport5
-http://178.175.132.170:8888/02_sport5_480p/chunklist.m3u8
-
-#EXTINF:-1,sport7
-http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1,Euro Sport 1
-http://178.175.132.170:8888/02_EUROHD1_720p/chunklist.m3u8
-
-#EXTINF:-1,ERROR Euro Sport 2
-http://178.175.132.170:8888/02_EUROHD2_720p/chunklist.m3u8
-
-#EXTINF:-1,ERROR Sport TV1
-http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1,Sport TV2
-http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1,Sport TV3
-http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-1,Sport TV4
-http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1,ERROR Sport TV5
-http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,CELESTIAL MOVIES
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1,ONE
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1,MBC1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1,MBC2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1,MBC3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1,MBC4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1,MBC5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1,MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1,MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1,MBC+ Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1,MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1,MBC Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1,MBC Masr
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1,MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1,Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1,Disney
+http://stream.tvtap.live:8081/live/us-disney.stream/chunks.m3u8
+#EXTINF:-1,Disney XD
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/DISNEYXD-audio_129324_und=128000-video=800000.m3u8
+#EXTINF:-1,Nickelodeon
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1,Nick
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF:-1,Nickelodeon
+https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
+#EXTINF:-1,Nick Jr
+https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
+#EXTINF:-1,Nick Jr
+https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
+#EXTINF:-1,Nat Geographic USA
+http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8
+#EXTINF:-1,Nat Geographic Abu
+https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
+#EXTINF:-1,Crime Investigation
+http://31.220.41.88:8081/live/mcrime.stream/chunks.m3u8
+#EXTINF:-1,UNEARTH
+https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,XPLORE
+https://xplore-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1,Russia Today Documentary
+https://rt-doc.secure.footprint.net/1101.m3u8
+#EXTINF:-1,travelxp EN
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,travelxp AU
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1,Pursuit Up
+https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Way Point
+https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,The Design Network
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,This Old House
+https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Tiny House Nation
+https://aenetworks-tinyhousenation-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Stingray Djazz
+https://stirr.ott-channels.stingray.com/djazz/master.m3u8
+#EXTINF:-1,The Country Network
+https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TCN-RAD/playlist.m3u8
+#EXTINF:-1,The Country Network
+https://d39uqn16w2n0w1.cloudfront.net/scte35/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CMC USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+#EXTINF:-1,CMC USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/.m3u8
+#EXTINF:-1,MTV YO!
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+#EXTINF:-1,MTV POP
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1,MTV Party
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
+#EXTINF:-1,MTV Spankin
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
+#EXTINF:-1,Vevo POP
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a467bae26bbfb7c82e67b/live.m3u8
+#EXTINF:-1,Vevo Country
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/f66d9d3fb088443baf9abae38ae01fef/live.m3u8
+#EXTINF:-1,Vevo Latino
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/782b647b2e38471e80cae5e7bdc3f1dc/live.m3u8
+#EXTINF:-1,Vevo Regueton
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8
+#EXTINF:-1,Vevo Hiphop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1,Vevo R&B
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/b9c8b190e98b4556ad764a9eeeff4c4b/live.m3u8
+#EXTINF:-1,Vevo 70s
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd484e389101d109ac61cf5d/live.m3u8
+#EXTINF:-1,Vevo 80s
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/a65cf7ba93664eb083d95152fe717270/live.m3u8
+#EXTINF:-1,Vevo 90s
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/51f1a0da9da049098a8cec541bddfae5/live.m3u8
+#EXTINF:-1,Vevo 00s
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8
+#EXTINF:-1,KPOPTV
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
+#EXTINF:-1,New K-ID
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+#EXTINF:-1,FTV  Original
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
+#EXTINF:-1,FTV INT
+https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/.m3u8
+#EXTINF:-1,FTV Paris
+https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/.m3u8
+#EXTINF:-1,FTV Midnight
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/.m3u8
+#EXTINF:-1,FTV Model
+https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+#EXTINF:-1,World Fashion INT
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+#EXTINF:-1,World Fashion RU
+https://wfcrus.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
+#EXTINF:-1,HD FASHION
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,ID FASHION
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1,Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,CNN
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+#EXTINF:-1,abc NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,FOX NEWS
+https://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NBC NEWS
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1,CBS NEWS
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,Sky NEWS
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1,Al Jazeera
+https://live-hls-web-aje.getaj.net:443/AJE/01.m3u8
+#EXTINF:-1,Euronews
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,Rai News
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1,Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1,RT News USA
+https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8
+#EXTINF:-1,RT News UK
+https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
+#EXTINF:-1,NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1,Arirang Korea
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-1,CCTV1 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1,CCTV2 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1,CCTV3 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1,CCTV4 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1,CCTV5 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1,CCTV5+ FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1,CCTV6 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1,CCTV7 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1,CCTV8 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1,CCTV9 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1,CCTV10 FHD
+http://39.135.138.58:18890/PLTV/88888910/224/3221225627/index.m3u8
+#EXTINF:-1,CCTV11 FHD
+http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1,CCTV12 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225629/index.m3u8
+#EXTINF:-1,CCTV13 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1,CCTV14 FHD
+http://39.135.138.60:18890/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1,CCTV15 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1,CCTV17 FHD
+http://39.135.138.60:18890/PLTV/88888888/224/3221225765/index.m3u8
