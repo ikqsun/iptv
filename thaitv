@@ -51,7 +51,7 @@ https://live.topnews.co.th/hls/topnews_a_1080.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/tptv/chunks.m3u8
 
 
-#EXTINF:-1 "กิฬาไทย", TRUESP HD1
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP HD1
 https://we-play.live/watching/tv/true-sports-hd
 #EXTINF:-1 " group-title="กิฬาไทย", TRUESP HD2
 https://we-play.live/watching/tv/true-sports-hd-2
