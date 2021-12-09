@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 " group-title="ดิจิตอล", 3HD
-http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 #EXTINF:-1 " group-title="ดิจิตอล", 5HD
 http://live2.dootvde.com/live/50002_ch5.stream.smil/playist.m3u8
 #EXTINF:-1 " group-title="ดิจิตอล", 7HD
 http://live2.dootvde.com/live/50003_ch7.stream.smil/playist.m3u8
 #EXTINF:-1 " group-title="ดิจิตอล", MCOT HD
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
 #EXTINF:-1 " group-title="ดิจิตอล", NBT HD
 http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
 #EXTINF:-1 " group-title="ดิจิตอล", THAI TPBS
